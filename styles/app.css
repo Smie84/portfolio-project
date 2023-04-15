@@ -74,6 +74,18 @@ p {
   margin: 30px;
 }
 
+.about-hero-content h3 {
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  margin: 20px 0 0;
+  line-height: 1.5;
+}
+
+.about-hero-content p {
+  font-size: 14px;
+}
+
 .btn-branding {
   background: #6c63ff;
   color: white;
