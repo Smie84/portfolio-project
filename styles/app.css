@@ -15,7 +15,7 @@ h2 {
   font-size: 64px;
 }
 
-h4 {
+h3 {
   font-size: 48px;
 }
 
@@ -64,7 +64,7 @@ nav li.active a {
 .hero {
   background: #f9f7fe;
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 
 .hero p {
@@ -83,7 +83,7 @@ nav li.active a {
 }
 
 .about-hero {
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 
 .about-hero h1 {
@@ -193,7 +193,7 @@ footer .social-links a:hover {
     font-size: 43px;
   }
 
-  h4 {
+  h3 {
     font-size: 26px;
   }
   .project-description {
